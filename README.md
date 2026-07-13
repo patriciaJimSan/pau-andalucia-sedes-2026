@@ -16,8 +16,12 @@ Tras analizar el mapa nacional en el primer bloque y comparar la evolución de M
 * **Pandas:** Para calcular datos absolutos (`alumnos_suspendidos`, `peso_sobre_total_pct`) y cruzar dimensiones.
 * **Matplotlib & Seaborn:** Para diseñar los gráficos.
 
+## Estructura del Repositorio
 
+* `pau-andalucia-sedes-2026.ipynb`: Cuaderno de Jupyter con la carga de datos, la lógica de los cálculos, las visualizaciones y las conclusiones finales.
+* `portfolio_pau_2025_2026.xlsx`: Dataset original con los datos históricos oficiales de las notas medias de ambas comunidades.
+  
 ## Explicación en Vídeo
 
 Para ver cómo defiendo estos resultados a cámara, el análisis visual de las burbujas y las conclusiones de este cierre de módulo:
-[Analiza datos conmigo | El impacto real por sedes en la PAU Andalucía]
+[]
