@@ -21,8 +21,9 @@ Tras analizar el mapa nacional en el primer bloque y comparar la evolución de M
 * `pau-andalucia-sedes-2026.ipynb`: Cuaderno de Jupyter con la carga de datos, la lógica de los cálculos, las visualizaciones y las conclusiones finales.
 * `portfolio_pau_2025_2026.xlsx`: Dataset original con los datos históricos oficiales de las notas medias de ambas comunidades.
   
-## Explicación en Vídeo
+* ##  Explicación en Vídeo
+Para ver un resumen visual de las conclusiones y cómo defiendo los resultados a cámara:
 
-Para ver cómo defiendo estos resultados a cámara, el análisis visual de las burbujas y las conclusiones de este cierre de módulo:
-# [Analiza datos conmigo | El impacto real por sedes en la PAU Andalucía]
-()
+* [Analiza datos conmigo | El impacto real por sedes en la PAU Andalucía]()
+
+
