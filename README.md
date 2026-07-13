@@ -24,5 +24,5 @@ Tras analizar el mapa nacional en el primer bloque y comparar la evolución de M
 ## Explicación en Vídeo
 
 Para ver cómo defiendo estos resultados a cámara, el análisis visual de las burbujas y las conclusiones de este cierre de módulo:
-[Analiza datos conmigo | El impacto real por sedes en la PAU Andalucía]
+# [Analiza datos conmigo | El impacto real por sedes en la PAU Andalucía]
 ()
